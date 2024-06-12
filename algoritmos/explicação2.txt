@@ -1,0 +1,22 @@
+--- Formulário de cadastro
+
+Usuario enviou formulario.
+{
+    o emial esta correto?
+        se estiver {
+            nome esta correto?
+                se estiver {
+                    cpf esta correto?
+                        se estiver {
+                            realizar cadastro.
+                        } se não {
+                            apareça mensagem dizendo que está errado.
+                        }
+                } se não {
+                    apareça mensagem dizendo que está errado.
+                }
+        }
+        se não estiver {
+            apareça mensagem dizendo que está errado.
+        }
+}

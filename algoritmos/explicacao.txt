@@ -1,0 +1,29 @@
+Um algoritmo é uma sequência de passos ou instruções que descreve como resolver um problema. 
+É como uma receita de bolo, onde cada passo é uma instrução específica que deve ser 
+seguida na ordem correta para obter o resultado desejado.
+Em termos mais técnicos, um algoritmo é uma solução lógica e bem definida para 
+um problema, que pode ser implementada em um programa de computador. 
+Ele pode envolver operações matemáticas, estruturas de controle (como loops e condicionais) e manipulação de dados.
+Os algoritmos são fundamentais na programação, pois ajudam os desenvolvedores a resolver problemas de forma eficiente
+e sistemática. Eles são a base para a criação de programas e aplicativos que usamos no nosso dia a dia.
+
+Exemplos:
+
+Objetivo: Jantar
+
+--- Estou em em casa ? {
+        Sim.
+            Estou com fome?
+                Sim.
+                Temos Comida?
+                    Sim, vamos jantar.
+                não tem comida {
+                    comprar comida.
+                }
+            se não estou com fome {
+                esperar a fome chegar.
+            }
+        Se não estou em casa {
+            continuar andando até chegar em casa.
+        }
+    }
